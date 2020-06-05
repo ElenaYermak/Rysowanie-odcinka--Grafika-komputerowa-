@@ -1,0 +1,20 @@
+C:\Users\Alena\Desktop\Grafika komputerowa\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.csprojAssemblyReference.cache
+C:\Users\Alena\Desktop\Grafika komputerowa\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.Form1.resources
+C:\Users\Alena\Desktop\Grafika komputerowa\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.Properties.Resources.resources
+C:\Users\Alena\Desktop\Grafika komputerowa\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.csproj.GenerateResource.cache
+C:\Users\Alena\Desktop\Grafika komputerowa\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Desktop\Grafika komputerowa\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\bin\Debug\GK_Projekt_1_Yermak.exe.config
+C:\Users\Alena\Desktop\Grafika komputerowa\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\bin\Debug\GK_Projekt_1_Yermak.exe
+C:\Users\Alena\Desktop\Grafika komputerowa\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\bin\Debug\GK_Projekt_1_Yermak.pdb
+C:\Users\Alena\Desktop\Grafika komputerowa\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.exe
+C:\Users\Alena\Desktop\Grafika komputerowa\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.pdb
+C:\Users\Alena\Desktop\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\bin\Debug\GK_Projekt_1_Yermak.exe.config
+C:\Users\Alena\Desktop\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\bin\Debug\GK_Projekt_1_Yermak.exe
+C:\Users\Alena\Desktop\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\bin\Debug\GK_Projekt_1_Yermak.pdb
+C:\Users\Alena\Desktop\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.csprojAssemblyReference.cache
+C:\Users\Alena\Desktop\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.Form1.resources
+C:\Users\Alena\Desktop\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.Properties.Resources.resources
+C:\Users\Alena\Desktop\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.csproj.GenerateResource.cache
+C:\Users\Alena\Desktop\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Desktop\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.exe
+C:\Users\Alena\Desktop\Projekt\GK_Projekt_1_Yermak\GK_Projekt_1_Yermak\obj\Debug\GK_Projekt_1_Yermak.pdb
